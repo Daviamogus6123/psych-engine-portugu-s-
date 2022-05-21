@@ -82,7 +82,7 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
                         ['Criador da Engine']
-                        ['Davi'], 'davi',                   'criador dessa engine'
+                        ['Davi'], 'davi',                   'criador dessa engine'.         https://youtube.com/channel/UC9WNGm8flMCfYsy4cL4RmVQ                          '389A58'],          
                         [''],
 			['Psych Engine Android'],
 			['Saw (M.A. Jigsaw)',	'saw',				'Main Programmer of Psych Engine Android',					'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ', 	'F73838'],
